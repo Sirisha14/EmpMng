@@ -9,5 +9,6 @@ public class EmployeeManagmentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagmentApplication.class, args);
 	}
+    System.out.println("hello siri");
 
 }
